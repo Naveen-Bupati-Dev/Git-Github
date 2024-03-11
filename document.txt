@@ -77,17 +77,16 @@ and go to that directory or folder using cd command
 
 
  
-Git branch------------------------------------
- 
- 
- 
-
+Git branch
+-----------------------------------------------------------------
 1.to check branch git branch
 2.to create new brnach git branch [new-branch-name] 
 3.to create a new branch and checkout to it git checkout -b [new-brnach-name]
 4.to checkout from one branch to another branch use git checkout [branch-name]
 5.to merge or to add two branches they are two ways raise pull requests in github (or) use git merge [branch-name] 
 6.to see differnces we use git diff [branch-name]
+7. git pull ---comand is to download the repos from github to local means remote repo to local repo
+8.git conflicts are the conflits that arises when there is a change in samefile or in a same line of a code to resolve git conflicts developer need to review the code and decidewhic is to be there in code.
 
 
 
