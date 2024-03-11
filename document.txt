@@ -262,6 +262,21 @@ our git will store previous github crdentials in windows crdentials manager
 
 we to check in that and remove old credentials
 
+*if we want to create a folder and push code from local-machine to remote github follow below
+
+create folder
+add files 
+and go to that directory or folder using cd command
+
+1. git init --it will initializes an empty repository in local-machine
+2. now git add . and git commit -m "add"
+3. now add the remote origin link ----git remote add origin "link" link refers to create a new repo in
+   github and add the url here
+4. git remote-v ---to check the remote repo added or not
+5. git branch ---to check branch name 
+6. git branch -M main to change from amster to main
+7. git push -u origin main origin --refers to name of the remote repository
+8. here -u means upstream setting for next push purpose for next time if we push we use just "git push"  instead of ---git push origin main 
 
 
 
