@@ -76,7 +76,7 @@ and go to that directory or folder using cd command
 8. here -u means upstream setting for next push purpose for next time if we push we use just "git push"  instead of ---git push origin main 
 
 
-Git branch
+Git branch------------------------------------
 
 1.to check branch git branch
 2.to create new brnach git branch [new-branch-name] 
