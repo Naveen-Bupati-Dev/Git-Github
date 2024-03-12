@@ -87,8 +87,8 @@ Git branch
 6.to see differnces we use git diff [branch-name]
 7. git pull ---comand is to download the repos from github to local means remote repo to local repo
 8.git conflicts are the conflits that arises when there is a change in samefile or in a same line of a code to resolve git conflicts developer need to review the code and decidewhic is to be there in code.
-9. to delete branch git branch -d [brnach-name]
-
+9. to delete branch git branch -D [brnach-name]
+10. to check the logs og commits ---git log --stat -M
 
 
 
