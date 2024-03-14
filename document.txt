@@ -90,6 +90,11 @@ Git branch
 9. to delete branch git branch -d [brnach-name]
 
 
+By using vs code
+--------------------------------------------------------
+1.by using vs-code we can commit and push directly to github without using any commands by source control in vs-code
+2.if we want to create any new branch from vs code we can create using branch name in below vs code
+
 
 
 
